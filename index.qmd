@@ -12,6 +12,10 @@ This page is undergoing rapid development, but just serves as a splash page to d
 
 
 ### [ATO](https://ato.trackyverse.org)
+[![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
+[![name status badge](https://trackyverse.r-universe.dev/badges/:name)](https://trackyverse.r-universe.dev/)
+[![ATO status badge](https://trackyverse.r-universe.dev/ATO/badges/version)](https://trackyverse.r-universe.dev/ATO)
+[![R-CMD-check](https://github.com/trackyverse/ATO/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/trackyverse/ATO/actions/workflows/R-CMD-check.yaml)
 
 Interoperable S4 classes for animal tracking data. A rapidly-evolving package, so be sure to [check out the manifesto](https://ato.trackyverse.org/articles/ATO-ecosystem.html) to follow its guiding light.
 

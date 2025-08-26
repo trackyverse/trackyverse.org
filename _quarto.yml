@@ -11,6 +11,13 @@ website:
     left:
       - href: index.qmd
         text: Home
+    tools:
+      - icon: github
+        menu:
+          - text: Trackyverse Org
+            href: https://github.com/trackyverse
+          - text: Source Code
+            href: https://github.com/trackyverse/trackyverse.org
 
 format:
   html:

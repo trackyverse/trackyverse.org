@@ -23,10 +23,12 @@ Functions to filter, exlcude, and calculate various metrics housed in an ATO.
 
 Designed for studies where animals tagged with acoustic tags are expected to move through receiver arrays. Combines the advantages of automatic sorting and checking of animal movements with the possibility for user intervention on tags that deviate from expected behaviour.
 
-
 ### [TelemetrySpace](https://telemetryspace.trackyverse.org)
 
 A revival of Bayesian spatial-point-process driven center-of-activity analyses from [Winton et al. 2018](https://doi.org/10.1111/2041-210X.13080).
+
+
+## Tools in the Trackyverse
 
 ### [vdat-docker](https://github.com/trackyverse/vdat-docker)
 

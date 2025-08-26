@@ -1,0 +1,28 @@
+---
+title: "R packages and tools for animal tracking"
+---
+
+## R packages in the Trackyverse
+
+This page is undergoing rapid development, but just serves as a splash page to direct you to the member projects. Check back for further developments in the future!
+
+### [ATO](https://ato.trackyverse.org)
+
+Interoperable S4 classes for animal tracking data. A rapidly-evolving package, so be sure to [check out the manifesto](https://ato.trackyverse.org/articles/ATO-ecosystem.html) to follow its guiding light.
+
+### [atools](https://atools.trackyverse.org)
+
+Functions to filter, exlcude, and calculate various metrics housed in an ATO.
+
+### [actel](https://actel.trackyverse.org/)
+
+Designed for studies where animals tagged with acoustic tags are expected to move through receiver arrays. Combines the advantages of automatic sorting and checking of animal movements with the possibility for user intervention on tags that deviate from expected behaviour.
+
+
+### [TelemetrySpace](https://telemetryspace.trackyverse.org)
+
+A revival of Bayesian spatial-point-process driven center-of-activity analyses from [Winton et al. 2018](doi.org/10.1111/2041-210X.13080).
+
+### [vdat-docker](https://github.com/trackyverse/vdat-docker)
+
+Need to use [Innovasea's Fathom Connect software](https://support.fishtracking.innovasea.com/s/downloads) on Linux or MacOS? Look no further. These Docker containers have all you need to get Fathom Connect to work.

@@ -1,0 +1,26 @@
+project:
+  type: website
+  resources:
+    - CNAME
+
+website:
+  title: "Trackyverse"
+  site-url: "https://trackyverse.org"
+  navbar:
+    logo: hex_logo.png
+    left:
+      - href: index.qmd
+        text: Home
+
+format:
+  html:
+    theme:
+      - solar
+      - brand
+    css: styles.css
+    toc: true
+
+execute:
+  freeze: auto
+
+

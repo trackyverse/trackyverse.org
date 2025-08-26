@@ -4,8 +4,6 @@ title: "R packages and tools for animal tracking"
 
 ## R packages in the Trackyverse
 
-[![Enter the Trackyverse](https://trackyverse.r-universe.dev/badges/:name)](https://trackyverse.r-universe.dev/)
-
 This page is undergoing rapid development, but just serves as a splash page to direct you to the member projects. Check back for further developments in the future!
 
 

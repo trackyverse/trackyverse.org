@@ -6,6 +6,10 @@ title: "R packages and tools for animal tracking"
 
 This page is undergoing rapid development, but just serves as a splash page to direct you to the member projects. Check back for further developments in the future!
 
+::: column-margin
+![](hex_logo.png)
+:::
+
 ### [ATO](https://ato.trackyverse.org)
 
 Interoperable S4 classes for animal tracking data. A rapidly-evolving package, so be sure to [check out the manifesto](https://ato.trackyverse.org/articles/ATO-ecosystem.html) to follow its guiding light.

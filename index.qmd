@@ -36,4 +36,4 @@ A revival of Bayesian spatial-point-process driven center-of-activity analyses f
 
 ### [vdat-docker](https://github.com/trackyverse/vdat-docker)
 
-Need to use [Innovasea's Fathom Connect software](https://support.fishtracking.innovasea.com/s/downloads) on Linux or MacOS? Look no further. These Docker containers have all you need to get Fathom Connect to work.
+Need to use vdat from [Innovasea's Fathom Connect software](https://support.fishtracking.innovasea.com/s/downloads) on Linux or MacOS? Look no further. These Docker containers have all you need to get vdat to work.

@@ -18,6 +18,6 @@
     "href": "index.html#tools-in-the-trackyverse",
     "title": "R packages and tools for animal tracking",
     "section": "Tools in the Trackyverse",
-    "text": "Tools in the Trackyverse\n\nvdat-docker\nNeed to use Innovasea’s Fathom Connect software on Linux or MacOS? Look no further. These Docker containers have all you need to get Fathom Connect to work."
+    "text": "Tools in the Trackyverse\n\nvdat-docker\nNeed to use vdat from Innovasea’s Fathom Connect software on Linux or MacOS? Look no further. These Docker containers have all you need to get vdat to work."
   }
 ]

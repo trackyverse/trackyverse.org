@@ -1,5 +1,6 @@
 ---
 title: "R packages and tools for animal tracking"
+default-image-extension: ""
 ---
 
 ## R packages in the Trackyverse

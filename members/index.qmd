@@ -2,9 +2,6 @@
 title: "Members of the Trackyverse"
 output: asis
 echo: false
-execute: 
-  freeze: false
-default-image-extension: ""
 ---
 
 ```{r}

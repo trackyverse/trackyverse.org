@@ -1,5 +1,6 @@
 on:
   workflow_dispatch:
+  pull_request:
   push:
     branches: main
 
@@ -34,7 +35,12 @@ jobs:
             any::rmarkdown
             any::quarto
 
+      - name: Check that PR will render
+        if: github.event_name == 'pull_request'
+        uses: quarto-dev/quarto-actions/render@v2
+
       - name: Render and Publish
+        if: github.event_name != 'pull_request'
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages

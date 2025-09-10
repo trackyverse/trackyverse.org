@@ -11,6 +11,10 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: members/index.qmd
+        text: Members
+      - href: https://trackyverse.r-universe.dev
+        text: R-Universe
     tools:
       - icon: github
         menu:

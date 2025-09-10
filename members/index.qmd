@@ -1,0 +1,16 @@
+---
+title: "Members of the Trackyverse"
+output: asis
+echo: false
+execute: 
+  freeze: false
+default-image-extension: ""
+---
+
+```{r}
+sapply(
+  list.files("profiles"),
+  \(member) knitr::knit_child(file.path("profiles", member), quiet = TRUE)
+) |>
+  cat(sep = "\n")
+```

@@ -1,17 +1,31 @@
 [
   {
+    "objectID": "members/index.html",
+    "href": "members/index.html",
+    "title": "Members of the Trackyverse",
+    "section": "",
+    "text": "&lt;!DOCTYPE html&gt;\n\n\n\n\n\n\nhugo_flavio – Trackyverse\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n     \n\n\n\n\n\n\n\n\n\n\n  &lt;div class=\"navbar-brand-container mx-auto\"&gt;\n&lt;a href=\"../../index.html\" class=\"navbar-brand navbar-brand-logo\"&gt;\n&lt;img src=\"../../hex_logo.png\" alt=\"\" class=\"navbar-logo\"&gt;\n&lt;/a&gt;\n&lt;a class=\"navbar-brand\" href=\"../../index.html\"&gt;\n&lt;span class=\"navbar-title\"&gt;Trackyverse&lt;/span&gt;\n&lt;/a&gt;\n\n  &lt;div id=\"quarto-search\" class=\"\" title=\"Search\"&gt;&lt;/div&gt;\n      &lt;button class=\"navbar-toggler\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#navbarCollapse\" aria-controls=\"navbarCollapse\" role=\"menu\" aria-expanded=\"false\" aria-label=\"Toggle navigation\" onclick=\"if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }\"&gt;\n \n\n        &lt;ul class=\"navbar-nav navbar-nav-scroll me-auto\"&gt;\n\n Home\n\n\n Members\n\n\n R-Universe\n\n\n      &lt;/div&gt; &lt;!-- /navcollapse --&gt;\n        &lt;div class=\"quarto-navbar-tools\"&gt;\n&lt;div class=\"dropdown\"&gt;\n  &lt;a href=\"\" title=\"\" id=\"quarto-navigation-tool-dropdown-0\" class=\"quarto-navigation-tool dropdown-toggle px-1\" data-bs-toggle=\"dropdown\" aria-expanded=\"false\" role=\"link\" aria-label=\"\"&gt;&lt;i class=\"bi bi-github\"&gt;&lt;/i&gt;&lt;/a&gt;\n  &lt;ul class=\"dropdown-menu\" aria-labelledby=\"quarto-navigation-tool-dropdown-0\"&gt;\n      &lt;li&gt;\n        &lt;a class=\"dropdown-item quarto-navbar-tools-item\" href=\"https://github.com/trackyverse\"&gt;\n        Trackyverse Org\n        &lt;/a&gt;\n      &lt;/li&gt;\n      &lt;li&gt;\n        &lt;a class=\"dropdown-item quarto-navbar-tools-item\" href=\"https://github.com/trackyverse/trackyverse.org\"&gt;\n        Source Code\n        &lt;/a&gt;\n      &lt;/li&gt;\n  &lt;/ul&gt;\n&lt;/div&gt;"
+  },
+  {
+    "objectID": "members/profiles/mike_obrien.html",
+    "href": "members/profiles/mike_obrien.html",
+    "title": "Mike O’Brien",
+    "section": "",
+    "text": "Mike O’Brien\n\n\n\nProjects\n\n\n\n\nContact\n    \n mike@obrien.page"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "R packages and tools for animal tracking",
     "section": "",
-    "text": "This page is undergoing rapid development, but just serves as a splash page to direct you to the member projects. Check back for further developments in the future!\n\n\n\n\n\n   \nInteroperable S4 classes for animal tracking data. A rapidly-evolving package, so be sure to check out the manifesto to follow its guiding light.\n\n\n\nFunctions to filter, exlcude, and calculate various metrics housed in an ATO.\n\n\n\nDesigned for studies where animals tagged with acoustic tags are expected to move through receiver arrays. Combines the advantages of automatic sorting and checking of animal movements with the possibility for user intervention on tags that deviate from expected behaviour.\n\n\n\nA revival of Bayesian spatial-point-process driven center-of-activity analyses from Winton et al. 2018."
+    "text": "This page is undergoing rapid development and serves as a splash page to direct you to the member projects. Check back here or on our R-universe page for further developments!\n\n\n\n\n\n   \nInteroperable S4 classes for animal tracking data. A rapidly-evolving package, so be sure to check out the manifesto to follow its guiding light.\n\n\n\nFunctions to filter, exlcude, and calculate various metrics housed in an ATO.\n\n\n\n    \nDesigned for studies where animals tagged with acoustic tags are expected to move through receiver arrays. Combines the advantages of automatic sorting and checking of animal movements with the possibility for user intervention on tags that deviate from expected behaviour.\n\n\n\n  \nA revival of Bayesian spatial-point-process driven center-of-activity analyses from Winton et al. 2018."
   },
   {
     "objectID": "index.html#r-packages-in-the-trackyverse",
     "href": "index.html#r-packages-in-the-trackyverse",
     "title": "R packages and tools for animal tracking",
     "section": "",
-    "text": "This page is undergoing rapid development, but just serves as a splash page to direct you to the member projects. Check back for further developments in the future!\n\n\n\n\n\n   \nInteroperable S4 classes for animal tracking data. A rapidly-evolving package, so be sure to check out the manifesto to follow its guiding light.\n\n\n\nFunctions to filter, exlcude, and calculate various metrics housed in an ATO.\n\n\n\nDesigned for studies where animals tagged with acoustic tags are expected to move through receiver arrays. Combines the advantages of automatic sorting and checking of animal movements with the possibility for user intervention on tags that deviate from expected behaviour.\n\n\n\nA revival of Bayesian spatial-point-process driven center-of-activity analyses from Winton et al. 2018."
+    "text": "This page is undergoing rapid development and serves as a splash page to direct you to the member projects. Check back here or on our R-universe page for further developments!\n\n\n\n\n\n   \nInteroperable S4 classes for animal tracking data. A rapidly-evolving package, so be sure to check out the manifesto to follow its guiding light.\n\n\n\nFunctions to filter, exlcude, and calculate various metrics housed in an ATO.\n\n\n\n    \nDesigned for studies where animals tagged with acoustic tags are expected to move through receiver arrays. Combines the advantages of automatic sorting and checking of animal movements with the possibility for user intervention on tags that deviate from expected behaviour.\n\n\n\n  \nA revival of Bayesian spatial-point-process driven center-of-activity analyses from Winton et al. 2018."
   },
   {
     "objectID": "index.html#tools-in-the-trackyverse",
@@ -19,5 +33,19 @@
     "title": "R packages and tools for animal tracking",
     "section": "Tools in the Trackyverse",
     "text": "Tools in the Trackyverse\n\nvdat-docker\nNeed to use vdat from Innovasea’s Fathom Connect software on Linux or MacOS? Look no further. These Docker containers have all you need to get vdat to work."
+  },
+  {
+    "objectID": "members/profiles/ben_hlina.html",
+    "href": "members/profiles/ben_hlina.html",
+    "title": "Benjamin Hlina",
+    "section": "",
+    "text": "Benjamin Hlina\n\n\n\nProjects\n\n\n\n\nContact\n   \n benjamin.hlina@gmail.com"
+  },
+  {
+    "objectID": "members/profiles/0hugo_flavio.html",
+    "href": "members/profiles/0hugo_flavio.html",
+    "title": "Hugo Flávio",
+    "section": "",
+    "text": "Hugo Flávio\n\n\n\nProjects\n\n\n\n\n\n\nContact\n    \n hflavio@dal.ca"
   }
 ]

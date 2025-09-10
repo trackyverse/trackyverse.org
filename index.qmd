@@ -5,7 +5,7 @@ default-image-extension: ""
 
 ## R packages in the Trackyverse
 
-This page is undergoing rapid development, but just serves as a splash page to direct you to the member projects. Check back for further developments in the future!
+This page is undergoing rapid development and serves as a splash page to direct you to the member projects. Check back here or on our [R-universe page](https://trackyverse.r-universe.dev/builds) for further developments!
 
 ::: column-margin
 ![](hex_logo.png)
@@ -25,10 +25,18 @@ Interoperable S4 classes for animal tracking data. A rapidly-evolving package, s
 Functions to filter, exlcude, and calculate various metrics housed in an ATO.
 
 ### [actel](https://actel.trackyverse.org/)
+[![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/actel)](https://cran.r-project.org/package=actel)
+[![CRAN RStudio mirror downloads](https://cranlogs.r-pkg.org/badges/actel)](https://cran.r-project.org/package=actel)
+[![name status badge](https://trackyverse.r-universe.dev/badges/:name)](https://trackyverse.r-universe.dev/)
+[![actel status badge](https://trackyverse.r-universe.dev/actel/badges/version)](https://trackyverse.r-universe.dev/actel)
+[![R-CMD-check](https://github.com/hugomflavio/actel/actions/workflows/R-CMD-check.yml/badge.svg)](https://github.com/hugomflavio/actel/actions)
 
 Designed for studies where animals tagged with acoustic tags are expected to move through receiver arrays. Combines the advantages of automatic sorting and checking of animal movements with the possibility for user intervention on tags that deviate from expected behaviour.
 
 ### [TelemetrySpace](https://telemetryspace.trackyverse.org)
+[![name status badge](https://trackyverse.r-universe.dev/badges/:name)](https://trackyverse.r-universe.dev/)
+[![TelemetrySpace status badge](https://trackyverse.r-universe.dev/TelemetrySpace/badges/version)](https://trackyverse.r-universe.dev/TelemetrySpace)
+[![R-CMD-check](https://github.com/trackyverse/TelemetrySpace/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/trackyverse/TelemetrySpace/actions/workflows/R-CMD-check.yaml)
 
 A revival of Bayesian spatial-point-process driven center-of-activity analyses from [Winton et al. 2018](https://doi.org/10.1111/2041-210X.13080).
 

@@ -11,7 +11,7 @@ concurrency:
 name: Quarto Publish
 
 jobs:
-  build-deploy:
+  quarto:
     runs-on: ubuntu-latest
     permissions:
       contents: write

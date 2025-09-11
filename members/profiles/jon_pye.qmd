@@ -1,0 +1,25 @@
+# Jon Pye
+
+::: columns
+
+::: {.column width="35%"}
+### Projects
+:::
+
+::: {.column width="35%"}
+### Contact 
+[{{< ai google-scholar size=2x >}}](https://scholar.google.ca/citations?user=SnzMMW8AAAAJ&hl=en)
+[{{< fa brands bluesky size=2x >}}](https://bsky.app/profile/jdpye.bsky.social)
+[{{< fa brands github size=2x >}}](https://github.com/jdpye)
+
+[{{< fa envelope size=2x >}} jdpye\@dal.ca](mailto:jdpye@dal.ca)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="25%"}
+![](https://gravatar.com/avatar/6b4b8c37a112be697096000009e0da0e60c3da803cde2b805f9fc5bee6e983f1?v=1685044711000&size=142&d=initials)
+:::
+
+:::

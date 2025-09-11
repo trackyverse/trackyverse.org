@@ -1,0 +1,16 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the
+// README at: https://github.com/devcontainers/templates/tree/main/src/ubuntu
+{
+	"name": "Ubuntu",
+	// Make a prettier image name
+	"runArgs": ["--name", "trackyverse-web"],
+
+	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
+	"image": "mcr.microsoft.com/devcontainers/base:noble",
+	"features": {
+    "ghcr.io/rocker-org/devcontainer-features/quarto-cli:latest": {},
+		"ghcr.io/rocker-org/devcontainer-features/r-apt:0": {}
+  },
+
+	"postStartCommand": "quarto preview"
+}

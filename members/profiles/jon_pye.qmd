@@ -4,6 +4,7 @@
 
 ::: {.column width="35%"}
 ### Projects
+[![](https://img.shields.io/badge/OTN-glatos-23a8b8?style=for-the-badge)](https://github.com/ocean-tracking-network/glatos/)
 :::
 
 ::: {.column width="35%"}

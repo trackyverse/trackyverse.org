@@ -1,13 +1,18 @@
 ---
 title: "Members of the Trackyverse"
-output: asis
-echo: false
+execute: 
+  freeze: false
 ---
 
 ```{r}
-sapply(
-  list.files("profiles"),
-  \(member) knitr::knit_child(file.path("profiles", member), quiet = TRUE)
-) |>
-  cat(sep = "\n")
+#| output: asis
+#| echo: false
+cat(
+  paste0(
+    "{{< include ",
+    list.files('_profiles', full.names = T),
+    " >}}",
+    "\n"
+  )
+)
 ```

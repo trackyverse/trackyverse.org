@@ -1,0 +1,30 @@
+# Frank Smith
+
+::: columns
+
+::: {.column width="60%"}
+
+[![](https://img.shields.io/badge/trackyverse-dictionary-b1e2ff?style=for-the-badge)](https://ato.trackyverse.org/articles/ato-dictionary.html)
+
+### Roles
+
+Keeper of the ATO dictionary, where central information about column names, data types, and functions is maintained.
+
+:::
+
+::: {.column width="15%"}
+:::
+
+::: {.column width="25%"}
+![](/assets/img/frank_profile.jpg)
+
+<p style="text-align: center;">
+[{{< fa brands bluesky>}}](https://bsky.app/profile/franksmith.xyz)
+[{{< fa brands github>}}](https://github.com/franksmithxyz)
+[{{< fa brands x>}}](https://x.com/FrankSmithXYZ)
+[{{< fa brands linkedin>}}](https://www.linkedin.com/in/franksmithxyz/)
+[{{< fa brands researchgate>}}](https://www.researchgate.net/profile/Frank-Smith-9)
+</p>
+:::
+
+:::

@@ -2,27 +2,30 @@
 
 ::: columns
 
-::: {.column width="35%"}
-### Projects
+::: {.column width="60%"}
+
 [![](https://img.shields.io/badge/trackyverse-TelemetrySpace-d5bff5?style=for-the-badge)](https://telemetryspace.trackyverse.org/)
+
+### Roles
+
+De-facto System Administrator; hosting the website and making sure commits don't break things. Working on [TelemetrySpace](https://telemetryspace.trackyverse.org/) with Ben.
+
 :::
 
-::: {.column width="35%"}
-### Contact 
-[{{< fa globe size=2x >}}](https://obrien.page/)
-[{{< ai google-scholar size=2x >}}](https://scholar.google.com/citations?user=IMIq9P4AAAAJ)
-[{{< fa brands bluesky size=2x >}}](https://bsky.app/profile/obrien.page)
-[{{< fa brands mastodon size=2x >}}](https://fosstodon.org/@mobrien)
-[{{< fa brands github size=2x >}}](https://github.com/mhpob)
-
-[{{< fa envelope size=2x >}} mike\@obrien.page](mailto:mike\@obrien.page)
-:::
-
-::: {.column width="5%"}
+::: {.column width="15%"}
 :::
 
 ::: {.column width="25%"}
 ![](https://github.com/Tail-Winds/tail-winds.github.io/blob/0153221ec9703c9c44ce79f0d7c69b5abfca51b7/team/images/mike.jpg?raw=true)
+
+<p style="text-align: center;">
+[{{< fa globe>}}](https://obrien.page/)
+[{{< ai google-scholar>}}](https://scholar.google.com/citations?user=IMIq9P4AAAAJ)
+[{{< fa brands bluesky>}}](https://bsky.app/profile/obrien.page)
+[{{< fa brands mastodon>}}](https://fosstodon.org/@mobrien)
+[{{< fa brands github>}}](https://github.com/mhpob)
+[{{< fa envelope>}}](mailto:mike\@obrien.page)
+</p>
 :::
 
 :::

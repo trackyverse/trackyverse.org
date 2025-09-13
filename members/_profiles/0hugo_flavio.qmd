@@ -2,32 +2,33 @@
 
 ::: columns
 
-::: {.column width="35%"}
-### Projects
+::: {.column width="60%"}
+
 [![](https://img.shields.io/badge/trackyverse-actel-41b3f7?style=for-the-badge)](https://actel.trackyverse.org/)
-
 [![](https://img.shields.io/badge/trackyverse-ATO-b1e2ff?style=for-the-badge)](https://ato.trackyverse.org/)
-
 [![](https://img.shields.io/badge/trackyverse-atools-0072b2?style=for-the-badge)](https://atools.trackyverse.org/)
 
+### Roles
+
+Writing code and distributing tasks around :)
+
+Currently the main developer of the [ATO](https://ato.trackyverse.org/) and [atools](https://atools.trackyverse.org/) packages. Maintaining [actel](https://actel.trackyverse.org/) too.
+
 :::
 
-::: {.column width="35%"}
-### Contact 
-[{{< fa globe size=2x >}}](https://hugoflavio.com/)
-[{{< ai google-scholar size=2x >}}](https://scholar.google.com/citations?user=TnfYOkUAAAAJ)
-[{{< fa brands bluesky size=2x >}}](https://bsky.app/profile/hugoflavio.com)
-[{{< fa brands mastodon size=2x >}}](https://ecoevo.social/@HugoMFlavio)
-[{{< fa brands github size=2x >}}](https://github.com/hugomflavio)
-
-[{{< fa envelope size=2x >}} hflavio\@dal.ca](mailto:hflavio@dal.ca)
-:::
-
-::: {.column width="5%"}
+::: {.column width="15%"}
 :::
 
 ::: {.column width="25%"}
-![](https://github.com/hugomflavio/hugoflavio-com/blob/019885ff66a9a171564865b915653ebadb72be80/assets/img/home/perfil_small.png?raw=true)
+![](/assets/img/hugo_profile.jpg)
+
+<p style="text-align: center;">
+[{{< fa globe>}}](https://hugoflavio.com/)
+[{{< ai google-scholar>}}](https://scholar.google.com/citations?user=TnfYOkUAAAAJ)
+[{{< fa brands bluesky>}}](https://bsky.app/profile/hugoflavio.com)
+[{{< fa brands github>}}](https://github.com/hugomflavio)
+[{{< fa envelope>}}](mailto:hflavio@dal.ca)
+</p>
 :::
 
 :::

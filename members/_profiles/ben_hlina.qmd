@@ -1,29 +1,31 @@
-# Benjamin Hlina
+# Benjamin L. Hlina
 
 ::: columns
 
-::: {.column width="35%"}
-### Projects
+::: {.column width="60%"}
 
 [![](https://img.shields.io/badge/trackyverse-TelemetrySpace-d5bff5?style=for-the-badge)](https://telemetryspace.trackyverse.org/)
 
+### Roles
+
+Developing [TelemetrySpace](https://telemetryspace.trackyverse.org/) and helping out with code testing.
+
 :::
 
-::: {.column width="35%"}
-### Contact 
-[{{< fa globe size=2x >}}](https://benjaminhlina.com/)
-[{{< ai google-scholar size=2x >}}](https://scholar.google.com/citations?user=upRdN9AAAAAJ)
-[{{< fa brands bluesky size=2x >}}](https://bsky.app/profile/benjaminhlina.bsky.social)
-[{{< fa brands github size=2x >}}](https://github.com/benjaminhlina/)
-
-[{{< fa envelope size=2x >}} benjamin.hlina\@gmail.com](mailto:benjamin.hlina@gmail.com)
-:::
-
-::: {.column width="5%"}
+::: {.column width="15%"}
 :::
 
 ::: {.column width="25%"}
 ![](https://github.com/benjaminhlina/blog.github.io/blob/2b76bace1f8a3ef8859cb5e356671ad6e40b4600/IMG_7613.jpg?raw=true)
+
+<p style="text-align: center;">
+
+[{{< fa globe>}}](https://benjaminhlina.com/)
+[{{< ai google-scholar>}}](https://scholar.google.com/citations?user=upRdN9AAAAAJ)
+[{{< fa brands bluesky>}}](https://bsky.app/profile/benjaminhlina.bsky.social)
+[{{< fa brands github>}}](https://github.com/benjaminhlina/)
+[{{< fa envelope>}}](mailto:benjamin.hlina@gmail.com)
+</p>
 :::
 
 :::

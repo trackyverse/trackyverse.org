@@ -1,0 +1,24 @@
+# Beth Bowers
+
+:::::: columns
+::: {.column width="60%"}
+[![](https://img.shields.io/badge/sporeg-23a8b8?style=for-the-badge)](https://github.com/mebowers5/sporeg/)
+
+### Roles
+
+Generating ideas for trackyverse development. Connecting groups that would benefit from or enhance trackyverse. Developing and maintaining sporeg package.
+:::
+
+::: {.column width="15%"}
+:::
+
+::: {.column width="25%"}
+![](https://avatars.githubusercontent.com/u/57407056?v=4)
+
+<p style="text-align: center;">
+
+[{{< ai google-scholar>}}](https://scholar.google.com/citations?user=s_mz20MAAAAJ&hl=en) [{{< fa brands github>}}](https://github.com/mebowers5) [{{< fa envelope>}}](mailto:bowersme@si.edu)
+
+</p>
+:::
+::::::

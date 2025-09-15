@@ -16,6 +16,7 @@ Maintains [glatos](https://github.com/ocean-tracking-network/glatos/).
 :::
 
 ::: {.column width="25%"}
+![](/assets/img/chris_profile.png)
 
 <p style="text-align: center;">
 [{{< ai google-scholar>}}](https://scholar.google.com/citations?user=gbToCdgAAAAJ&hl)

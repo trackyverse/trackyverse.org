@@ -1,0 +1,31 @@
+# Ian Jonsen
+
+::: columns
+
+::: {.column width="60%"}
+
+[![](https://img.shields.io/badge/IMOS-remora-23a8b8?style=for-the-badge)](https://github.com/IMOS-AnimalTracking/remora/)
+[![](https://img.shields.io/badge/StochasticQC-ArgosQC-23a8b8?style=for-the-badge)](https://github.com/ianjonsen/ArgosQC/)
+[![](https://img.shields.io/badge/StochasticQC-aniMotum-23a8b8?style=for-the-badge)](https://github.com/ianjonsen/aniMotum/)
+
+### Roles
+
+Bringing satellite telemetry expertise to the trackyverse and to the ATO. Developer of [ArgosQC](https://github.com/ianjonsen/ArgosQC/), [aniMotum](https://github.com/ianjonsen/aniMotum/) and co-developer of [remora](https://github.com/IMOS-AnimalTracking/remora/) with Fabrice Jaine, Yuri Niella et al. Now co-developing ArgosQC with OTN.
+
+:::
+
+::: {.column width="15%"}
+:::
+
+::: {.column width="25%"}
+![](assets/img/ian_profile.jpg)
+
+<p style="text-align: center;">
+[{{< ai google-scholar>}}](https://scholar.google.com/citations?user=TVP5XTQAAAAJ&hl=en)
+[{{< fa brands bluesky>}}](https://bsky.app/profile/ianjonsen.bsky.social)
+[{{< fa brands github>}}](https://github.com/ianjonsen)
+[{{< fa envelope>}}](mailto:jonsen@stochastic-qc.org)
+</p>
+:::
+
+:::

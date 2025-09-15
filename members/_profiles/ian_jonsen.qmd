@@ -18,7 +18,7 @@ Bringing satellite telemetry expertise to the trackyverse and to the ATO. Develo
 :::
 
 ::: {.column width="25%"}
-![](assets/img/ian_profile.jpg)
+![](/assets/img/ian_profile.jpg)
 
 <p style="text-align: center;">
 [{{< ai google-scholar>}}](https://scholar.google.com/citations?user=TVP5XTQAAAAJ&hl=en)

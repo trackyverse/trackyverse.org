@@ -1,0 +1,27 @@
+# Bruce Delo
+
+::: columns
+
+::: {.column width="60%"}
+
+[![](https://img.shields.io/badge/OTN-glatos-23a8b8?style=for-the-badge)](https://github.com/ocean-tracking-network/glatos/)
+[![](https://img.shields.io/badge/OTN-surimi-23a8b8?style=for-the-badge)](https://github.com/ocean-tracking-network/surimi/)
+
+### Roles
+
+Solutions Analyst at the Ocean Tracking Network (OTN). Workshop teacher and programmer. Co-developing [surimi](https://github.com/ocean-tracking-network/surimi/), [remora](https://github.com/ocean-tracking-network/remora/), and [glatos](https://github.com/ocean-tracking-network/glatos/).
+
+:::
+
+::: {.column width="15%"}
+:::
+
+::: {.column width="25%"}
+![](/assets/img/bruce_profile.png)
+
+<p style="text-align: center;">
+[{{< fa envelope>}}](mailto:bdelo@dal.ca)
+</p>
+:::
+
+:::

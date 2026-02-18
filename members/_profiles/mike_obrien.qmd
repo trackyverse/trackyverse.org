@@ -19,7 +19,7 @@ De-facto System Administrator; hosting the website and making sure commits don't
 ![](https://github.com/Tail-Winds/tail-winds.github.io/blob/0153221ec9703c9c44ce79f0d7c69b5abfca51b7/team/images/mike.jpg?raw=true)
 
 <p style="text-align: center;">
-[{{< fa globe>}}](https://obrien.page/)
+[{{< fa globe>}}](https://www.obrien.page/)
 [{{< ai google-scholar>}}](https://scholar.google.com/citations?user=IMIq9P4AAAAJ)
 [{{< fa brands bluesky>}}](https://bsky.app/profile/obrien.page)
 [{{< fa brands mastodon>}}](https://fosstodon.org/@mobrien)

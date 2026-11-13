@@ -1,9 +1,5 @@
 ---
 title: "Code Formatting for Developers"
-vignette: >
-  %\VignetteIndexEntry{Setting up Air}
-  %\VignetteEngine{quarto::html}
-  %\VignetteEncoding{UTF-8}
 execute:
     eval: FALSE
 knitr:

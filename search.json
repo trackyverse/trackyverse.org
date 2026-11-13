@@ -1,5 +1,40 @@
 [
   {
+    "objectID": "additional-info/code-formatting-for-dev/index.html",
+    "href": "additional-info/code-formatting-for-dev/index.html",
+    "title": "Code Formatting for Developers",
+    "section": "",
+    "text": "For developers, the Trackyverse uses Air as a default formatter/linter to quickly reformat code. This article providers instructions on why we use Air and how to setup Air whether you are using RStudio, VS Code, or Positron.\nAir shares properties with other modern formatters and linters, such as Ruff for Python.\nA few things to note about Air:\n\nAir is highly opinionated and offers relatively few options for customization but it can be customized.\nAir is written in Rust and is based on the Biome formatter engine, which makes it extremely fast."
+  },
+  {
+    "objectID": "additional-info/code-formatting-for-dev/index.html#rstudio",
+    "href": "additional-info/code-formatting-for-dev/index.html#rstudio",
+    "title": "Code Formatting for Developers",
+    "section": "RStudio",
+    "text": "RStudio\nIf you are using RStudio, it does not support Language Server Protocol, but you can still use Air as an external formatter.\nTo get Air working with RStudio see the following guide - using Air with RStudio, which details how to adjust RStudio’s Global Options to find and recognize Air. See Guide to using Air below."
+  },
+  {
+    "objectID": "additional-info/code-formatting-for-dev/index.html#positron-and-vs-code",
+    "href": "additional-info/code-formatting-for-dev/index.html#positron-and-vs-code",
+    "title": "Code Formatting for Developers",
+    "section": "Positron and VS Code",
+    "text": "Positron and VS Code\nIf you are using Positron or VS Code, it does support Language Server Protcols and allows for Air to have a bit more freedom, enforcing different settings at a user level and at a workspace level (i.e. for just the current project you are working on).\nBecause Air can leverage Language Server Protcols there is no further setup needed."
+  },
+  {
+    "objectID": "additional-info/code-formatting-for-dev/index.html#rstudio-1",
+    "href": "additional-info/code-formatting-for-dev/index.html#rstudio-1",
+    "title": "Code Formatting for Developers",
+    "section": "RStudio",
+    "text": "RStudio\nTo enable features such as Format on Save we can adjust the Global Settings using Tools -&gt; Global Options -&gt; Code -&gt; Saving and check Reformat documents on save., which is detailed in Air’s guide to using with RStudio."
+  },
+  {
+    "objectID": "additional-info/code-formatting-for-dev/index.html#positron-and-vs-code-1",
+    "href": "additional-info/code-formatting-for-dev/index.html#positron-and-vs-code-1",
+    "title": "Code Formatting for Developers",
+    "section": "Positron and VS Code",
+    "text": "Positron and VS Code\nTo enable features like Format on Save, you’ll need to adjust settings in either your user or workspace level settings.json file. We generally recommend modifying workspace level settings for two reasons:\n\nWorkspace level settings exist inside your workspace folder at .vscode/settings.json and are checked in to your version control system. This means that your collaborators will get those settings automatically when they check out your project. User level settings are not checked in to version control.\nUser level settings are automatically applied for all projects that you open. While this sounds nice, if you open an older project (or a project you don’t own) that doesn’t use Air, then you’ll have to remember to turn off your user level Air settings before committing to that project, otherwise you may create a large amount of format related diffs that the project may not want.\n\nThe easiest way to set up a workspace level settings.json with the recommended settings is by running the command Air: Initialize Workspace Folder. This is equivalent to running usethis::use_air() from an R console.\nAlternatively, to open your settings.json file from the Command Palette (Cmd + Shift + P on Mac/Linux, Ctrl + Shift + P on Windows):\nRun Preferences: Open Workspace Settings (JSON) to modify workspace specific settings (recommended). Run Preferences: Open User Settings (JSON) to modify global user settings.\nAt this point, for the Trackyverse, there is no futher setup needed, however, for more on using Air to its full capacity, see the Air Guide."
+  },
+  {
     "objectID": "members/index.html",
     "href": "members/index.html",
     "title": "Members of the Trackyverse",

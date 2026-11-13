@@ -15,6 +15,9 @@ website:
         text: Members
       - href: https://trackyverse.r-universe.dev
         text: R-Universe
+      - text: Addtional Info
+        menu:
+          - href: additional-info/code-formatting-for-dev/index.qmd
     tools:
       - icon: github
         menu:
